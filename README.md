@@ -1,4 +1,4 @@
- 
+ just move character and get coins
 
 
 > Open this page at [https://ev212.github.io/maze-game/](https://ev212.github.io/maze-game/)
